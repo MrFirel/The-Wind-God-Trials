@@ -10,8 +10,8 @@
   "name":"obj_clock",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"gp_hud",
+    "path":"folders/Objects/gp_hud.yy",
   },
   "parentObjectId":null,
   "persistent":false,

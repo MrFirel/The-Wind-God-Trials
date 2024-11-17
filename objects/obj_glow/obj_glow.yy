@@ -11,8 +11,8 @@
   "name":"obj_glow",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"gp_parent_obj",
+    "path":"folders/Objects/gp_parent_obj.yy",
   },
   "parentObjectId":null,
   "persistent":false,
