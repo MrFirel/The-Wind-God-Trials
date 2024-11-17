@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_farm",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_soil",
+  "eventList":[],
   "managed":true,
-  "name":"obj_farm",
+  "name":"obj_soil",
   "overriddenProperties":[],
   "parent":{
-    "name":"gp_city",
-    "path":"folders/Objects/gp_city.yy",
+    "name":"gp_farm",
+    "path":"folders/Objects/gp_farm.yy",
   },
   "parentObjectId":{
     "name":"obj_glow",
@@ -33,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_farm",
-    "path":"sprites/spr_farm/spr_farm.yy",
+    "name":"spr_soil",
+    "path":"sprites/spr_soil/spr_soil.yy",
   },
   "spriteMaskId":null,
   "visible":true,

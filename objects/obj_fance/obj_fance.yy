@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_farm",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_fance",
+  "eventList":[],
   "managed":true,
-  "name":"obj_farm",
+  "name":"obj_fance",
   "overriddenProperties":[],
   "parent":{
-    "name":"gp_city",
-    "path":"folders/Objects/gp_city.yy",
+    "name":"gp_farm",
+    "path":"folders/Objects/gp_farm.yy",
   },
-  "parentObjectId":{
-    "name":"obj_glow",
-    "path":"objects/obj_glow/obj_glow.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_farm",
-    "path":"sprites/spr_farm/spr_farm.yy",
+    "name":"spr_fance",
+    "path":"sprites/spr_fance/spr_fance.yy",
   },
   "spriteMaskId":null,
   "visible":true,

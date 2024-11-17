@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
   "%Name":"obj_forge",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_forge",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"gp_city",
+    "path":"folders/Objects/gp_city.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_glow",
+    "path":"objects/obj_glow/obj_glow.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
