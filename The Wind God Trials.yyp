@@ -40,7 +40,6 @@
     {"id":{"name":"obj_game_settings","path":"objects/obj_game_settings/obj_game_settings.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_city","path":"rooms/rm_city/rm_city.yy",},},
-    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_bg_grass","path":"sprites/spr_bg_grass/spr_bg_grass.yy",},},
     {"id":{"name":"spr_farm","path":"sprites/spr_farm/spr_farm.yy",},},
     {"id":{"name":"spr_forge","path":"sprites/spr_forge/spr_forge.yy",},},
