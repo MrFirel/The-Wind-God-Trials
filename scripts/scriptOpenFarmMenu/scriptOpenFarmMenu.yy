@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scriptMenuActionChicken",
+  "%Name":"scriptOpenFarmMenu",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scriptMenuActionChicken",
+  "name":"scriptOpenFarmMenu",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

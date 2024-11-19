@@ -1,0 +1,1 @@
+scriptOpenFarmMenu(["Alimentar", "Coletar ovos"], openFarmMenuChicken);

@@ -1,5 +1,4 @@
 if (menuOpen) {
-    var optionHeight = 32; // Altura de cada opção do menu
     menuHovered = -1;      // Nenhuma opção está destacada por padrão
 
     for (var i = 0; i < array_length(menuOptions); i++) {
