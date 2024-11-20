@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_btn_village",
-    "path":"sprites/spr_btn_village/spr_btn_village.yy",
+    "name":"spr_map_opening",
+    "path":"sprites/spr_map_opening/spr_map_opening.yy",
   },
   "spriteMaskId":null,
   "visible":true,

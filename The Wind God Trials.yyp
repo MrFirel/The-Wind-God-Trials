@@ -76,6 +76,7 @@
     {"id":{"name":"spr_farm","path":"sprites/spr_farm/spr_farm.yy",},},
     {"id":{"name":"spr_forge","path":"sprites/spr_forge/spr_forge.yy",},},
     {"id":{"name":"spr_house","path":"sprites/spr_house/spr_house.yy",},},
+    {"id":{"name":"spr_map_opening","path":"sprites/spr_map_opening/spr_map_opening.yy",},},
     {"id":{"name":"spr_plantation","path":"sprites/spr_plantation/spr_plantation.yy",},},
     {"id":{"name":"spr_sheep","path":"sprites/spr_sheep/spr_sheep.yy",},},
     {"id":{"name":"spr_soil","path":"sprites/spr_soil/spr_soil.yy",},},
